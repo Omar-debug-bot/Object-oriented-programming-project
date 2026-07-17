@@ -51,10 +51,7 @@ This was built as a team project for the Object-Oriented Programming course
 at AAST (Arab Academy for Science, Technology and Maritime Transport).
 
 
-
-\*\*Team members:\*\* \[Omar](https://github.com/Omar-debug-bot), \[Seif Yasser](https://github.com/seifyasser264-ship-it), \[Hussien](https://github.com/HussHacks)
-
-
+**Team members:** [Omar](https://github.com/Omar-debug-bot), [Seif Yasser](https://github.com/seifyasser264-ship-it), [Hussien](https://github.com/HussHacks)
 
 \## How to Run
 
