@@ -1,0 +1,11 @@
+Keys.txt
+target/
+build.log
+build_log.txt
+build_output.txt
+compile_error.log
+errors.txt
+*.backup
+data/*.mv.db
+node_modules/
+.env
